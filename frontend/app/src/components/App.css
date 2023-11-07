@@ -1,0 +1,78 @@
+.App{
+  color: antiquewhite;
+}
+
+
+
+.signup{
+  color:rgb(138, 123, 100);
+  background-color: rgb(161, 221, 161);
+  text-align: center;
+  padding: 10px;
+  margin-top: 10%;
+  margin-bottom: 80px;
+  margin-left: 40%;
+  margin-right: 40%;
+
+}
+.signup input{
+  margin-top: 20px;
+}
+.signup input:hover{
+ color: rgb(6, 71, 71);
+ background-color: rgb(195, 180, 196);
+}
+
+
+.signup:hover{
+  color: rgb(74, 38, 172);
+  background-color: blanchedalmond;
+
+}
+.signup h1:hover{
+  color:rgb(74, 38, 172);
+  background-color: blanchedalmond;
+
+} 
+.home{
+  display:inline;
+}
+.update{
+  display: inline-block;
+  text-align: center;
+  margin-top: 15%;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px;
+  color: black;
+  background-color: azure;
+}
+.update label{
+  margin-top: 2px;
+}
+.update:hover{
+  color: rgb(74, 38, 172);
+  background-color: blanchedalmond;
+
+}
+.update input{
+  margin-top: 20px;
+}
+
+.getmethod{
+  color:rgb(82, 21, 21);
+  background-color: rgb(161, 221, 161);
+  text-align: center;
+  padding: 10px;
+  margin-top: 10%;
+  margin-bottom: 80px;
+  margin-left: 40%;
+  margin-right: 40%;
+
+}
+
+.getmethod:hover{
+  color: rgb(67, 13, 214);
+  background-color: blanchedalmond;
+
+}

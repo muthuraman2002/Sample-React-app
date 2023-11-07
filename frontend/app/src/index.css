@@ -1,0 +1,42 @@
+*{
+  display: 100%;
+
+}
+.app h1{
+  color:rgb(37, 3, 3);
+  background-color: rgb(219, 219, 54);
+  margin-top: 0px;
+}
+.app{
+  color:brown;
+  background-color: beige;
+  height: 100vh;
+  
+}
+.app li:hover{
+  color: beige;
+  background-color: rgb(197, 178, 178);
+}
+.app li {
+  display: inline-block;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.headding{
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+.applayout li {
+  margin-left: 20px;
+  margin-right: 10%;
+  display: inline;
+}
+.home{
+  display: inline-block;
+  padding: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
